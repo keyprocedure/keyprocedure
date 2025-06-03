@@ -13,8 +13,8 @@
 
 ---
 
-#### Added Android Runtime Debug API [[PR #11042](https://github.com/pytorch/executorch/pull/11042)]
-`Built Java API via JNI to expose registered ops and backends from C++ runtime.`
+#### Added Android Runtime API [[PR #11042](https://github.com/pytorch/executorch/pull/11042)]
+`Created Java API via JNI to query operators and backends from native C++ runtime.`
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-#### Added Tests for Logging Without Configuration [[PR #9762](https://github.com/pytorch/executorch/pull/9762)]
-`Ensured logging components error out correctly when used without initialization.`
+#### Added Tests for Uninitialized Input Handling [[PR #9762](https://github.com/pytorch/executorch/pull/9762)]
+`Added tests and refactored setup to verify logging behavior in unconfigured debug states.`
 
 ---
