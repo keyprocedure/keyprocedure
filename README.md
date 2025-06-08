@@ -18,12 +18,12 @@
 
 ---
 
-#### Improved Input Validation for Model Execution [[PR #10701](https://github.com/pytorch/executorch/pull/10701)]
-`Added input checks to prevent invalid module execution and memory curruption.`
+#### Added Tests for Uninitialized Input Handling [[PR #9762](https://github.com/pytorch/executorch/pull/9762)]
+`Added tests and refactored setup to verify logging behavior in unconfigured debug states.`
 
 ---
 
-#### Added Tests for Uninitialized Input Handling [[PR #9762](https://github.com/pytorch/executorch/pull/9762)]
-`Added tests and refactored setup to verify logging behavior in unconfigured debug states.`
+#### Improved Input Validation for Model Execution [[PR #10701](https://github.com/pytorch/executorch/pull/10701)]
+`Added input checks to prevent invalid module execution and memory curruption.`
 
 ---
