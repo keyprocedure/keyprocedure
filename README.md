@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=2000&pause=2000&color=FAFAFA&center=false&vCenter=true&repeat=false&width=800&height=45&lines=PyTorch+-+ExecuTorch" align="middle" alt="PyTorch ExecuTorch">
 
 
-#### Enabled Dynamic Quantization for 2D Convolutions [[PR #10347](https://github.com/pytorch/executorch/pull/10347)]
-`Supported memory-efficient Conv2D inference via dynamic quantization in XNNPACK.`
+#### Enabled Dynamic Quantization for Conv2D Ops [[PR #10347](https://github.com/pytorch/executorch/pull/10347)]
+`Added support for dynamically quantized Conv2D inference in XNNPACK.`
 
 ---  
  
