@@ -31,6 +31,5 @@
 ---
 
 #### Added Intel Platform Check to Install Script and Updated Build Instructions [[PR #10652](https://github.com/pytorch/executorch/pull/10652)]
-`Blocked unsupported Intel-macOS builds and clarified docs for PyTorch built from source.`
-
+`Prevented unsupported Intel-macOS builds and clarified docs for PyTorch built from source.`
 ---  
