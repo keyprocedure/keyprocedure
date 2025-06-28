@@ -1,6 +1,6 @@
 <h1 align="center">PyTorch ExecuTorch PRs</h1>
 
-#### Enabled Dynamic Quantization for Conv2D Ops [[PR #10347](https://github.com/pytorch/executorch/pull/10347)]
+#### Enabled Dynamic Quantization for 2D Convolutions [[PR #10347](https://github.com/pytorch/executorch/pull/10347)]
 `Added support for dynamically quantized Conv2D inference in XNNPACK.`
 
 ---  
