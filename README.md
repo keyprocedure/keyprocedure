@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">PyTorch ExecuTorch PRs</h1>
 
-<!--
-**keyprocedure/keyprocedure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Enabled Dynamic Quantization for 2D Convolutions [[PR #10347](https://github.com/pytorch/executorch/pull/10347)]
 
-Here are some ideas to get you started:
+#### Integrated a BatchNorm-Linear Graph Fusion Pass [[PR #11805](https://github.com/pytorch/executorch/pull/11805)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Prevented Mixed Precision Inference Failures [[PR #9612](https://github.com/pytorch/executorch/pull/9612)]
+
+#### Developed an Android Runtime API  [[PR #11042](https://github.com/pytorch/executorch/pull/11042)]
+
+#### Enabled Direct File Reads via Memory Mapping [[PR #11654](https://github.com/pytorch/executorch/pull/11654)]
+
+#### Created Error Handling Tests for Uninitialized Output [[PR #9762](https://github.com/pytorch/executorch/pull/9762)]
+
+#### Added Platform Detection and Updated Build Instructions for Source-Built PyTorch [[PR #10652](https://github.com/pytorch/executorch/pull/10652)]  
+
+#### Updated Input Validation for Model Execution [[PR #10701](https://github.com/pytorch/executorch/pull/10701)]
+
+#### Formatted Files and Expanded Lint Workflow [[PR #12256](https://github.com/pytorch/executorch/pull/12256)]
