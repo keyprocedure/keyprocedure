@@ -1,7 +1,5 @@
 <h1 align="center">PyTorch ExecuTorch PRs</h1>
 
-#### Developed a Clone Operator that Preserves Tensor Memory Layout [[PR #12974](https://github.com/pytorch/executorch/pull/12974)]
-
 #### Integrated a BatchNorm-Linear Graph Fusion Pass [[PR #11805](https://github.com/pytorch/executorch/pull/11805)]
 
 #### Enabled Dynamic Quantization for 2D Convolutions [[PR #10347](https://github.com/pytorch/executorch/pull/10347)]
