@@ -1,8 +1,8 @@
 <h1 align="center">PyTorch/ExecuTorch Contributions</h1>
 
 ### Core Features
-- **Memory-Layout Preserving Clone Operator and Portable Kernel**  
-  Integrated across ARM, Apple’s Core ML, and Qualcomm backends; preventing optimization-induced output errors in production [[PR #12974](https://github.com/pytorch/executorch/pull/12974)]  
+- **Memory-Layout Preserving Clone Operator**  
+  Implemented a portable kernel and integrated across ARM, Apple’s Core ML, and Qualcomm backends; preventing optimization-induced output errors in production [[PR #12974](https://github.com/pytorch/executorch/pull/12974)]  
 - **BatchNorm–Linear Graph Fusion Pass**  
   Reduced computational overhead and improved CPU model efficiency [[PR #11805](https://github.com/pytorch/executorch/pull/11805)]  
 - **Dynamic Quantization for 2D Convolutions**  
