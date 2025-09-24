@@ -14,7 +14,8 @@
   Created an API enabling developers to query supported operators and backends directly from native C++ runtime [[PR #11042](https://github.com/pytorch/executorch/pull/11042)]
   
 - **Memory-Mapped File Loading**  
-  Implemented direct memory reads into caller buffers, reducing model load times [[PR #11654](https://github.com/pytorch/executorch/pull/11654)]  
+  Implemented mmap data loader to restore mutable tensor states with initial values, critical for
+on-device training and read-before-write model operations [[PR #11654](https://github.com/pytorch/executorch/pull/11654)]  
 
 ### Reliability & Safety
 - **Logging Safety Tests**  
