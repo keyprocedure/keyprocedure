@@ -4,7 +4,7 @@
 - **Memory-Layout Preserving Clone Operator**  
   Built a new clone operator with a portable kernel and integrated across ARM, Apple’s Core ML, and Qualcomm backends; preventing optimization-induced output errors in production [[PR #12974](https://github.com/pytorch/executorch/pull/12974)]
   
-- **BatchNorm–Linear Graph Fusion Pass**  
+- **BatchNorm–Linear Graph Fusion**  
   Developed a graph transformation that fuses BatchNorm into Linear layers, reducing computational overhead and improving CPU model efficiency [[PR #11805](https://github.com/pytorch/executorch/pull/11805)]
   
 - **Dynamic Quantization for 2D Convolutions**  
