@@ -1,4 +1,4 @@
-<h1 align="center">PyTorch/ExecuTorch Contributions</h1>
+<h1 align="center">PyTorch ExecuTorch Contributions</h1>
 
 ### Core Features
 - **Memory-Layout Preserving Clone Operator**  
